@@ -31,13 +31,21 @@ The dashboard provides a clear and visually appealing way to understand HR perfo
 # 📌 Key Features
 
 ✔ Total Employee Count KPI
+
 ✔ Department-wise Employee Distribution (Pie Chart)
+
 ✔ Age Group Analysis (Bar Chart)
+
 ✔ Attrition by Education Field
+
 ✔ Attrition by Gender (Donut Chart)
+
 ✔ Job Role Matrix with totals
+
 ✔ Job Satisfaction Summary
+
 ✔ Department-wise Attrition (Treemap)
+
 ✔ Interactive Slicers for Department Filtering
 
 # 🛠 Tools & Technologies Used
