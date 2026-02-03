@@ -4,6 +4,7 @@ An interactive HR Analytics Dashboard built using Microsoft Power BI to analyze 
 This dashboard helps HR teams make data-driven decisions by visualizing key workforce metrics.
 
 # 🧾 Dataset Used
+<a href="https://github.com/Roshan-kumar611/HR-data-Analysis/blob/main/HR_Analytics_Dataset%20(1).xlsx">Data<a>
 
 # 🚀 Project Overview
 
