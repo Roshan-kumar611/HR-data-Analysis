@@ -8,25 +8,7 @@ This dashboard helps HR teams make data-driven decisions by visualizing key work
 
 # 🚀 Project Overview
 
-This Power BI project focuses on:
-
-Employee count across departments
-
-Attrition analysis by:
-
-Education Field
-
-Gender
-
-Department
-
-Age-wise employee distribution
-
-Job role-wise employee count and satisfaction
-
-Interactive department filters
-
-The dashboard provides a clear and visually appealing way to understand HR performance and employee behavior.
+This Power BI project presents an interactive HR Analytics Dashboard to visualize employee data, attrition trends, department performance, age distribution, and job satisfaction. It helps identify workforce patterns and supports data-driven HR decisions.
 
 # 📌 Key Features
 
@@ -73,4 +55,14 @@ Attrition slightly higher among Male employees
 Certain job roles show lower job satisfaction
 
 Department-wise workforce distribution is balanced
+
+# 📌 Future Improvements
+
+Add time-based attrition trends
+
+Include salary analysis
+
+Predict attrition using Power BI forecasting
+
+Add more KPIs
 
