@@ -62,4 +62,15 @@ CSV Dataset
 
 <img width="1315" height="747" alt="Screenshot 2026-02-01 230856" src="https://github.com/user-attachments/assets/c1ce508f-04df-4706-8201-52364f29a6d0" />
 
+# 📈 Insights Generated
+
+Total Employees: 200
+
+Highest attrition observed in Commerce & Life Sciences
+
+Attrition slightly higher among Male employees
+
+Certain job roles show lower job satisfaction
+
+Department-wise workforce distribution is balanced
 
