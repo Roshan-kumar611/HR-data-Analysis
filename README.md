@@ -58,3 +58,8 @@ DAX (for measures and calculations)
 
 CSV Dataset
 
+# 📷 Dashboard Preview
+
+<img width="1315" height="747" alt="Screenshot 2026-02-01 230856" src="https://github.com/user-attachments/assets/c1ce508f-04df-4706-8201-52364f29a6d0" />
+
+
